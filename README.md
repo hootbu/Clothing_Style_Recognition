@@ -3,11 +3,11 @@
 
 We are considering using the following datasets and reference articles for the initial phase of this project, which aims to determine the style of clothing using machine learning and visual recognition techniques.
 
-It was planned to use ResNet 152/101/50/34/18 or AlexNet as the classification method. The suitability of the Mask R-CNN method for the project was observed as a result of research. Various datasets, both individually and in combination, are intended to be used. In this study, the OpenCV library will be used for making clothing recommendations and assessing similarity. The Tensorflow library will also be used for various tasks such as object detection. If needed, working with various libraries such as Numpy, Pandas, Matplotlib, and Sklearn will be supported. In the project, Mask R-CNN is considered for object recognition and segmentation, and KNN is intended to be used for calculating image similarity and finding similar objects.
+The suitability of the Mask R-CNN method for the project was observed as a result of research. Mask R-CNN is considered for object recognition and segmentation. Various datasets, both individually and in combination, are intended to be used. In this study, the OpenCV library will be used for assessing similarity. The Tensorflow library will also be used for various tasks such as object detection. If needed, working with various libraries such as Numpy, Pandas, Matplotlib, and Sklearn will be supported.
 
 Dataset(s)
 ------------------------
-[1] https://github.com/bearpaw/clothing-co-parsing
+[1] Clothing Co-Parsing: https://github.com/bearpaw/clothing-co-parsing
 
 [2] DeepFashion2: https://github.com/switchablenorms/DeepFashion2
 
